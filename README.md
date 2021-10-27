@@ -8,3 +8,10 @@
      - 
     <a href="https://github.com/benjankowski/Tennis-Ball-Shooter">📣 Latest Release</a>
 </p>
+
+<h4 align="center">
+    Planned Projects
+</h4>
+<p align="center">
+    <a href="https://github.com/benjankowski/raspio">🍒 Raspio</a>
+</p>
