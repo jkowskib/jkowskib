@@ -6,7 +6,7 @@
 <p align="center">
     <a href="https://github.com/benjankowski?tab=repositories">💻 Projects</a>
      - 
-    <a href="https://github.com/benjankowski/Tennis-Ball-Shooter">📣 Latest Release</a>
+    <a href="https://github.com/benjankowski/raspio">📣 Latest Release</a>
 </p>
 
 <h4 align="center">
