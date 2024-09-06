@@ -1,0 +1,148 @@
+body {
+    height: fit-content;
+    width: 100%;
+
+    color: var(--text-color);
+    background-color: var(--background);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    margin: 0;
+    padding: 15px 15px 0;
+    box-sizing: border-box;
+}
+
+body header {
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+    margin-left: auto;
+    margin-right: auto;
+
+    align-items: center;
+
+    padding: 20px 50px;
+
+    background-color: var(--accent-color);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+body a {
+    text-decoration: underline;
+    color: var(--text-color);
+}
+
+body a:hover {
+    color: #656565;
+}
+
+body header .info-text {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+body header img {
+    height: 200px;
+    border-radius: 100%;
+}
+
+body header hr {
+    margin: 5px 0;
+    border-color: var(--text-color);
+}
+
+.icon {
+    height: 20px;
+    transform: translate(0, 5px);
+}
+
+body header .info-text h1,p {
+    margin: 0;
+    padding: 0;
+}
+
+body header .info-text a {
+    color: var(--text-color);
+    text-decoration: none;
+}
+
+body header .info-text a:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+body .about-me {
+    background-color: var(--accent2-color);
+
+    margin-top: 10px;
+
+    padding: 30px 50px;
+}
+
+body .about-me h1 {
+    margin-top: 0;
+}
+
+body .education {
+    margin-top: 10px;
+    padding: 30px 50px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+
+    min-width: 500px;
+}
+
+body .education h1 {
+    margin: 0;
+}
+
+body .education .edu-spot h1 {
+    margin: 0;
+}
+
+body .education .edu-spot h2 {
+    margin: 0;
+    font-size: 20px;
+}
+
+body .education .edu-spot h3 {
+    margin: 0 0 15px;
+    font-size: 10px;
+}
+
+body .experience {
+    margin-top: 10px;
+    padding: 30px 50px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+body .experience h1 {
+    margin: 0;
+}
+
+body .experience .exp-spot h2 {
+    margin: 0;
+    font-size: 20px;
+}
+
+body .experience .exp-spot h3 {
+    margin: 0 0 15px;
+    font-size: 10px;
+}
+
+.grid-box {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.grid-box hr {
+    width: 100%;
+    border-color: var(--text-color);
+}
