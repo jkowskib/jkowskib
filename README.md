@@ -6,12 +6,5 @@
 <p align="center">
     <a href="https://github.com/benjankowski?tab=repositories">💻 Projects</a>
      - 
-    <a href="https://github.com/benjankowski/raspio">📣 Latest Release</a>
-</p>
-
-<h4 align="center">
-    Planned Projects
-</h4>
-<p align="center">
-    <a href="https://github.com/benjankowski/raspio">🍒 Raspio</a>
+    <a href="https://github.com/benjankowski">📣 Latest Release</a>
 </p>
