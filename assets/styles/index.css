@@ -39,17 +39,12 @@ body a:hover {
 body header .info-text {
     display: flex;
     flex-direction: column;
-    width: 35%;
+    width: 50%;
 }
 
 body header img {
     height: 200px;
     border-radius: 100%;
-}
-
-body header hr {
-    margin: 5px 0;
-    border-color: var(--text-color);
 }
 
 .icon {
@@ -72,10 +67,12 @@ body header .info-text a:hover {
     cursor: pointer;
 }
 
+body header .info-text br {
+    margin-top: 10px;
+}
+
 body .about-me {
     background-color: var(--accent2-color);
-
-    margin-top: 10px;
 
     padding: 30px 50px;
 }
@@ -120,6 +117,8 @@ body .experience {
     display: flex;
     flex-direction: column;
     gap: 25px;
+
+    min-width: 500px;
 }
 
 body .experience h1 {
@@ -145,4 +144,29 @@ body .experience .exp-spot h3 {
 .grid-box hr {
     width: 100%;
     border-color: var(--text-color);
+}
+
+.service-links {
+    padding: 15px 50px;
+
+    display: flex;
+    flex-direction: row;
+    white-space: nowrap;
+    align-items: center;
+}
+
+.service-links hr {
+    width: 100%;
+}
+
+.service-links h3 {
+    margin: 0 25px 0 0;
+}
+
+.service-links p:first-of-type {
+    margin-left: 15px;
+}
+
+.service-links p {
+    margin-right: 15px;
 }
