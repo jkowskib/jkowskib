@@ -10,5 +10,5 @@ I am a hobby developer and current student going for a computer engineering degr
 <p align="center">
     <a href="https://jkowski.com">💻 Website</a>
      - 
-    <a href="https://github.com/benjankowski?tab=repositories">📣 Projects</a>
+    <a href="https://github.com/jkowskib?tab=repositories">📣 Projects</a>
 </p>
